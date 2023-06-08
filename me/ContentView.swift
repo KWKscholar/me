@@ -15,11 +15,12 @@ struct ContentView: View {
                     .foregroundColor(Color(red: 1.0, green: 0.0, blue: 0.796))
                     .multilineTextAlignment(.center)
                
-                Image("woman")
+                Image("wom an")
                     .resizable(resizingMode: .stretch)
                     .aspectRatio(contentMode: .fit)
                     .foregroundColor(Color(red: 1.0, green: 0.0, blue: 0.0, opacity: 1.0))
-                    .cornerRadius(15)
+                    .cornerradius(15)
+                
                 
                
                 .foregroundColor(Color(red: 1.0, green: 0.0, blue: 0.796))
